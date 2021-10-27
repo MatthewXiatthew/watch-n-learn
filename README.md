@@ -30,7 +30,7 @@
     - Brian Law
     <br>
     <b>CTO</b>
-    - Matthew Xia
+    - Xiatthew Mia
     <br>
     <b>CMO</b>
     - Aarit Parekh
